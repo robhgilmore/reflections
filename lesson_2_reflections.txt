@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It adds a .git file to your folder, officially creating a repository.
+You have to do it because without a .git folder none of your
+changes are tracked.
