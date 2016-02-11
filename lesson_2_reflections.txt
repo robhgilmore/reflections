@@ -3,3 +3,12 @@ What happens when you initialize a repository? Why do you need to do it?
 It adds a .git file to your folder, officially creating a repository.
 You have to do it because without a .git folder none of your
 changes are tracked.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Hmm. I don't fuckin know lol. s
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you're doing something new, something that you don't want to fuck up
+your master branch. They can be helpful for allowing people to work
+on new features without possibly fucking up the master branch.
